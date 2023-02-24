@@ -43,4 +43,3 @@ A BRS Online é a loja virtual da nossa empresa. Abaixo estão os principais ép
 - Logística.
 
 Uma ferramenta utilizada para a elaboração dos diagramas é a WBS chart pro ou WBS schedule pro. A elaboração dos Épicos é a oportunidade de identificarmos novos riscos e a partir da elaboração dos diagramas devemos criar um backlog com a lista das entregas que devem ser feitas.
-
