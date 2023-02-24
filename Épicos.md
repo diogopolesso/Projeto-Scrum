@@ -27,3 +27,20 @@ O exemplo acima é de apenas uma Persona mas, um projeto de verdade, contém um 
 - Entrevistas com usuários;
 
 - Questionários;
+
+## Exemplo de uma empresa fictícia, a BRS Online:
+
+A BRS Online é a loja virtual da nossa empresa. Abaixo estão os principais épicos da empresa, os quais poderemos desmembrar ainda mais.
+
+- Layout;
+
+- Front-end (loja);
+
+- Back-end (administração);
+
+- Cadastro (mais uma decomposição do diagrama, uma sub-lista);
+
+- Logística.
+
+Uma ferramenta utilizada para a elaboração dos diagramas é a WBS chart pro ou WBS schedule pro. A elaboração dos Épicos é a oportunidade de identificarmos novos riscos e a partir da elaboração dos diagramas devemos criar um backlog com a lista das entregas que devem ser feitas.
+
