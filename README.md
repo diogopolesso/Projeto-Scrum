@@ -1,4 +1,4 @@
-# **SCRUM - Gerente Ágil**
+# **PROJETO SCRUM**
 
 Neste meu conteudo você vai conhecer junto comigo a Metodologia Scrum, processo ágil mais popular do mercado. 
 Vamos conhecer as principais técnicas da metodologia, como Retrospectivas, e conseguir aplicar em nosso seu projeto. 
@@ -7,7 +7,7 @@ Vamos entender como melhorar o desempenho de seu time e ter entregas mais rápid
 
 ****
 
-## Nste conteudo foi aplicado:
+## Neste conteudo foi aplicado:
 
 - Projetos com Agile.
 - Planejando Projetos com Agile.
