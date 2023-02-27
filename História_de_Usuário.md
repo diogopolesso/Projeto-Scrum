@@ -21,3 +21,4 @@ Abaixo estão descritos os critérios necessários para criar a História de Usu
 - Alinhar expectativas (das personas, dos clientes...).
 
 O Backlog Priorizado do Produto é criado e regularmente atualizado pelo Dono do Produto, com informações sobre as histórias de usuários e com os critérios de aceitação da história de usuários. O backlog do produto é a representação do que o cliente espera e a priorização é o que determina aquilo que será prioridade com base no que é valor para o cliente. O time só deverá considerar o trabalho pronto a partir do atendimento de alguns pontos que o Dono do Produto irá determinar. Qualquer História de Usuário deve passar pela equipe de testes e o responsável deve fazer comentários na plataforma de desenvolvimento e, por fim, as conclusões devem ser apresentadas ao grupo.
+
